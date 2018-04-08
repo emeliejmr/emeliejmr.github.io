@@ -87,9 +87,8 @@ video.insta {
 .container-citattext {
     font-family: 'Lobster', cursive;
     margin-top: 30px;
-    margin-right: 70px;
-    margin-left: 200px;
     margin-bottom: 70px;
+		text-align: center;
     color: grey;
     font-style: italic;
 }
@@ -100,6 +99,7 @@ background-color: #ffffff;
 font-size: 25px;
 border-width: 50px;
 border-color: #bababa;
+text-align: center;
 }
 
 p.ord {
@@ -109,6 +109,7 @@ font-size: 25px;
 border-width: 50px;
 border-color: #bababa;
 font-family: 'Raleway Dots', cursive;
+text-align: center;
 }
 
 .rubrik-container {
@@ -143,6 +144,7 @@ h1 {
   margin-right: 50px;
   margin-left: 50px;
   color: black;
+	text-align: center;
 
 }
 
