@@ -94,13 +94,21 @@ video.insta {
     font-style: italic;
 }
 
-
 p {
 color: #grey;
 background-color: #ffffff;
 font-size: 25px;
 border-width: 50px;
 border-color: #bababa;
+}
+
+p.ord {
+color: #grey;
+background-color: #ffffff;
+font-size: 25px;
+border-width: 50px;
+border-color: #bababa;
+font-family: 'Raleway Dots', cursive;
 }
 
 .rubrik-container {
@@ -276,7 +284,7 @@ input[type=submit]:hover {
 	} }
 
 	.form {
-	max-width: 900px;
+	max-width: 1000px;
 	background-color: white;
 	margin: auto;
 	}
