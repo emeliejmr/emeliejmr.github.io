@@ -1,3 +1,5 @@
+
+
 header {
 background-color: white;
 font-size: 40px;
@@ -91,6 +93,7 @@ video.insta {
     color: grey;
     font-style: italic;
 }
+
 
 p {
 color: #grey;
@@ -253,3 +256,27 @@ input[type=submit]:hover {
 		line-height: 26.4px;
 		color: white;
 }
+
+
+@media only screen and (min-with:760px) {
+	.a {
+	font-size: 30px;
+	}
+	.div {
+	background-color: #749375;
+	} }
+
+
+@media only screen and (min-with:900px) {
+	.p {
+	font-size: 40px;
+	}
+	.div {
+	background-color: #749375;
+	} }
+
+	.form {
+	max-width: 900px;
+	background-color: white;
+	margin: auto;
+	}
